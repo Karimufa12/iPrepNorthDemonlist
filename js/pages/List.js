@@ -100,22 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (FPS Bypass is allowed)
+                        You MUST be from iPrep North Academy, not anywhere else.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record without using hacks. (FPS Bypass is allowed)
+                    </p>
+                    <p>
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
                         You can show us your record on the level IRl or through the form. You can submit a photo.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        We will still accept records for Legacy levels, however you won't receive any points for them
+                        We will still accept records for Legacy levels, however you won't receive any points for them.
                     </p>
                 </div>
             </div>
