@@ -38,6 +38,8 @@ What are some common reasons for the website not loading?
   the last lines within list entries. A good way to find the error-causing lines can be found
   by using `Inspect Element` and going to the `Console` tab.
 
+  https://iprepnorth.pages.dev/
+
 ---
 
 ## More Coming Soon!
