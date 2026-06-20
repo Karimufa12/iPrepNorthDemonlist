@@ -103,6 +103,9 @@ export default {
                         You MUST be from iPrep North Academy, not anywhere else.
                     </p>
                     <p>
+                        We accept unrated levels and/or challenges as long as one of the mods approve the level.
+                    </p>
+                    <p>
                         Achieved the record without using hacks. (FPS Bypass is allowed)
                     </p>
                     <p>
