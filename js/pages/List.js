@@ -115,6 +115,9 @@ export default {
                         You can show us your record on the level IRl or through the form. You can submit a photo.
                     </p>
                     <p>
+                        The level MUST be Medium Demon difficulty or higher to get put on the list. However, any top 15 level on the Easy Demon List can get put on the list too.
+                    </p>
+                    <p>
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
