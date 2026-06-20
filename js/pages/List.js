@@ -103,7 +103,7 @@ export default {
                         You MUST be from iPrep North Academy, not anywhere else.
                     </p>
                     <p>
-                        We accept unrated levels and/or challenges as long as one of the mods approve the level. However, levels from the Spam Challenge List and The Challenge List are exempted and automatically allowed.
+                        We accept unrated levels and/or challenges as long as one of the mods approve the level. However, levels from the Spam Challenge List, The Shitty List, and The Challenge List are exempted and automatically allowed.
                     </p>
                     <p>
                         Achieved the record without using hacks. (FPS Bypass is allowed)
