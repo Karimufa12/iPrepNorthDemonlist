@@ -86,7 +86,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">The iPrep Demonlist is a list containing the hardest levels and challenges beaten in Geometry Dash from people in the iPrep North school.</p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
@@ -103,7 +103,7 @@ export default {
                         You MUST be from iPrep North Academy, not anywhere else.
                     </p>
                     <p>
-                        We accept unrated levels and/or challenges as long as one of the mods approve the level. However, levels from the Spam Challenge List, The Shitty List, and The Challenge List are exempted and automatically allowed.
+                        We accept unrated levels and/or challenges as long as one of the mods approve the level. However, levels from The Shitty List and The Challenge List are exempted and automatically allowed.
                     </p>
                     <p>
                         Achieved the record without using hacks. (FPS Bypass is allowed)
