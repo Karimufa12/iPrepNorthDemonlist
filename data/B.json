@@ -11,8 +11,9 @@
         {
             "user": "[7TH] Karimufa12",
             "link": "https://iprepnorth.pages.dev",
-            "percent": Mobile,
-            "hz": 60
+            "percent": 100,
+            "hz": 60,
+            "mobile":
         }
     ]
 }
