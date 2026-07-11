@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "[7TH] Karimufa12",
+            "link": "https://iprepnorth.pages.dev",
+            "platform": "Mobile",
+            "fps": 60
+        }
     ]
 }
